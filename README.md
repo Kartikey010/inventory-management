@@ -50,6 +50,7 @@ create database in mysql and the create table in it
 - SQL (MySQL)
 - Caching Libraries (Guava for L2 caching)
 - JDBC (Java Database Connectivity)
+- Executor service
 ## Main Components
 
  **Model Layer:**
