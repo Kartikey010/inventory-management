@@ -1,0 +1,19 @@
+# Maven
+target/
+*.log
+
+# IntelliJ
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+src/main/resources/application.properties
+
+# Other
+*.jar
+*.war
+*.class
+*.tmp
